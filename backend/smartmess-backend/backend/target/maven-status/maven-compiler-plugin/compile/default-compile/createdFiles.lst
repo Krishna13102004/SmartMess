@@ -1,0 +1,10 @@
+com\smartmess\ApiResponse.class
+com\smartmess\EventForecastItem.class
+com\smartmess\SmartMessApplication.class
+com\smartmess\UsageLog.class
+com\smartmess\ConsumptionRequest.class
+com\smartmess\controller\InventoryController.class
+com\smartmess\EventPredictionRequest.class
+com\smartmess\model\InventoryItem.class
+com\smartmess\UsageLogRepository.class
+com\smartmess\repository\InventoryRepository.class

@@ -1,0 +1,20 @@
+# General
+.DS_Store
+*.log
+.env
+.idea/
+.vscode/
+
+# Backend (Java/Maven)
+backend/smartmess-backend/target/
+backend/smartmess-backend/.settings/
+backend/smartmess-backend/.classpath
+backend/smartmess-backend/.project
+backend/smartmess-backend/*.iml
+
+# Frontend (Node/React/Vite)
+frontend/smartmess-frontend/node_modules/
+frontend/smartmess-frontend/dist/
+frontend/smartmess-frontend/build/
+frontend/smartmess-frontend/.eslintcache
+frontend/smartmess-frontend/*.local
